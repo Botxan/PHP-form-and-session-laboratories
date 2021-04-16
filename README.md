@@ -1,2 +1,2 @@
 # Forms / Sessions
-PHP Forms and session controls
+Form and session managing aimed to learn PHP programming language.
